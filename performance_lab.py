@@ -50,6 +50,7 @@ Time and Space Analysis for problem 1:
 # Example:
 print("P1 Output:", most_frequent_optimized([1, 3, 2, 3, 4, 1, 3])) # Output: 3
 
+
 # 🔍 Problem 2: Remove Duplicates While Preserving Order
 # Write a function that returns a list with duplicates removed but preserves order.
 #
@@ -80,6 +81,7 @@ Time and Space Analysis for problem 2:
 """
 # Example:
 print("P2 Output:", remove_duplicates([4, 5, 4, 6, 5, 7])) # Output: [4, 5, 6, 7]
+
 
 # 🔍 Problem 3: Return All Pairs That Sum to Target
 # Write a function that returns all unique pairs of numbers in the list that sum to a target.
@@ -116,6 +118,7 @@ Time and Space Analysis for problem 3:
 """
 # Example:
 print("P3 Output:", find_pairs([1, 2, 3, 4], target=5)) # Output: [(1, 4), (2, 3)]
+
 
 # 🔍 Problem 4: Simulate List Resizing (Amortized Cost)
 # Create a function that adds n elements to a list that has a fixed initial capacity.
@@ -165,6 +168,7 @@ Time and Space Analysis for problem 4:
 """
 # Example:
 add_n_items(6)
+
 
 # 🔍 Problem 5: Compute Running Totals
 # Write a function that takes a list of numbers and returns a new list
